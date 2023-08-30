@@ -1,0 +1,500 @@
+  231  python benchmark-file-parser/paper_result_plotter.py 
+  232  python benchmark-file-parser/paper_result_plotter.py 
+  233  python benchmark-file-parser/paper_result_plotter.py 
+  234  python benchmark-file-parser/paper_result_plotter.py 
+  235  python benchmark-file-parser/paper_result_plotter.py 
+  236  python benchmark-file-parser/paper_result_plotter.py 
+  237  python benchmark-file-parser/paper_result_plotter.py 
+  238  git commit -m "Remove outliers: fpp-56gib"
+  239  git push
+  240  git push
+  241  python benchmark-file-parser/paper_result_plotter.py 
+  242  python benchmark-file-parser/paper_result_plotter.py 
+  243  python benchmark-file-parser/paper_result_plotter.py 
+  244  python benchmark-file-parser/paper_result_plotter.py 
+  245  python benchmark-file-parser/paper_result_plotter.py 
+  246  python benchmark-file-parser/paper_result_plotter.py 
+  247  python benchmark-file-parser/paper_result_plotter.py 
+  248  python benchmark-file-parser/paper_result_plotter.py 
+  249  python benchmark-file-parser/paper_result_plotter.py 
+  250  python benchmark-file-parser/paper_result_plotter.py 
+  251  python benchmark-file-parser/paper_result_plotter.py 
+  252  python benchmark-file-parser/paper_result_plotter.py 
+  253  python benchmark-file-parser/paper_result_plotter.py 
+  254  python benchmark-file-parser/paper_result_plotter.py 
+  255  python benchmark-file-parser/paper_result_plotter.py 
+  256  python benchmark-file-parser/paper_result_plotter.py 
+  257  python benchmark-file-parser/paper_result_plotter.py 
+  258  git commit -m "Remove outliers: fpp-7mib"
+  259  git push
+  260  git push
+  261  python benchmark-file-parser/paper_result_plotter.py 
+  262  python benchmark-file-parser/paper_result_plotter.py 
+  263  python benchmark-file-parser/paper_result_plotter.py 
+  264  python benchmark-file-parser/paper_result_plotter.py 
+  265  python benchmark-file-parser/paper_result_plotter.py 
+  266  python benchmark-file-parser/paper_result_plotter.py 
+  267  python benchmark-file-parser/paper_result_plotter.py 
+  268  git commit -m "Remove outliers: ssf-56gib"
+  269  git push
+  270  git push
+  271  python benchmark-file-parser/paper_result_plotter.py 
+  272  python benchmark-file-parser/paper_result_plotter.py 
+  273  python benchmark-file-parser/paper_result_plotter.py 
+  274  python benchmark-file-parser/paper_result_plotter.py 
+  275  python benchmark-file-parser/paper_result_plotter.py 
+  276  python benchmark-file-parser/paper_result_plotter.py 
+  277  python benchmark-file-parser/paper_result_plotter.py 
+  278  python benchmark-file-parser/paper_result_plotter.py 
+  279  python benchmark-file-parser/paper_result_plotter.py 
+  280  python benchmark-file-parser/paper_result_plotter.py 
+  281  python benchmark-file-parser/paper_result_plotter.py 
+  282  python benchmark-file-parser/paper_result_plotter.py 
+  283  python benchmark-file-parser/paper_result_plotter.py 
+  284  python benchmark-file-parser/paper_result_plotter.py 
+  285  git commit -m "Remove outliers: ssf-7mib"
+  286  git commit -m "Remove outliers: ssf-7mib"
+  287  git push
+  288  git push
+  289  python benchmark-file-parser/paper_result_plotter.py 
+  290  python benchmark-file-parser/paper_result_plotter.py 
+  291  python benchmark-file-parser/paper_result_plotter.py 
+  292  python benchmark-file-parser/paper_result_plotter.py 
+  293  python benchmark-file-parser/paper_result_plotter.py 
+  294  python benchmark-file-parser/paper_result_plotter.py 
+  295  git commit -m "Add final result graphs (Pre UI/UX)"
+  296  git push
+  297  git push
+  298  python benchmark-file-parser/paper_result_plotter.py 
+  299  python benchmark-file-parser/paper_result_plotter.py 
+  300  python benchmark-file-parser/paper_result_plotter.py 
+  301  python benchmark-file-parser/paper_result_plotter.py 
+  302  python benchmark-file-parser/paper_result_plotter.py 
+  303  python benchmark-file-parser/paper_result_plotter.py 
+  304  python benchmark-file-parser/paper_result_plotter.py 
+  305  python benchmark-file-parser/paper_result_plotter.py 
+  306  python benchmark-file-parser/paper_result_plotter.py 
+  307  python benchmark-file-parser/paper_result_plotter.py 
+  308  python benchmark-file-parser/paper_result_plotter.py 
+  309  python benchmark-file-parser/paper_result_plotter.py 
+  310  python benchmark-file-parser/paper_result_plotter.py 
+  311  python benchmark-file-parser/paper_result_plotter.py 
+  312  python benchmark-file-parser/paper_result_plotter.py 
+  313  python benchmark-file-parser/paper_result_plotter.py 
+  314  python benchmark-file-parser/paper_result_plotter.py 
+  315  python benchmark-file-parser/paper_result_plotter.py 
+  316  python benchmark-file-parser/paper_result_plotter.py 
+  317  python benchmark-file-parser/paper_result_plotter.py 
+  318  python benchmark-file-parser/paper_result_plotter.py 
+  319  python benchmark-file-parser/paper_result_plotter.py 
+  320  python benchmark-file-parser/paper_result_plotter.py 
+  321  python benchmark-file-parser/paper_result_plotter.py 
+  322  python benchmark-file-parser/paper_result_plotter.py 
+  323  python benchmark-file-parser/paper_result_plotter.py 
+  324  python benchmark-file-parser/paper_result_plotter.py 
+  325  python benchmark-file-parser/paper_result_plotter.py 
+  326  python benchmark-file-parser/paper_result_plotter.py 
+  327  python benchmark-file-parser/paper_result_plotter.py 
+  328  python benchmark-file-parser/paper_result_plotter.py 
+  329  python benchmark-file-parser/paper_result_plotter.py 
+  330  python benchmark-file-parser/paper_result_plotter.py 
+  331  python benchmark-file-parser/paper_result_plotter.py 
+  332  python benchmark-file-parser/paper_result_plotter.py 
+  333  python benchmark-file-parser/paper_result_plotter.py 
+  334  python benchmark-file-parser/paper_result_plotter.py 
+  335  python benchmark-file-parser/paper_result_plotter.py 
+  336  python benchmark-file-parser/paper_result_plotter.py 
+  337  python benchmark-file-parser/paper_result_plotter.py 
+  338  python benchmark-file-parser/paper_result_plotter.py 
+  339  python benchmark-file-parser/paper_result_plotter.py 
+  340  python benchmark-file-parser/paper_result_plotter.py 
+  341  python benchmark-file-parser/paper_result_plotter.py 
+  342  python benchmark-file-parser/paper_result_plotter.py 
+  343  python benchmark-file-parser/paper_result_plotter.py 
+  344  python benchmark-file-parser/paper_result_plotter.py 
+  345  python benchmark-file-parser/paper_result_plotter.py 
+  346  git commit -m "fpp-7mib final"
+  347  python benchmark-file-parser/paper_result_plotter.py 
+  348  python benchmark-file-parser/paper_result_plotter.py 
+  349  python benchmark-file-parser/paper_result_plotter.py 
+  350  python benchmark-file-parser/paper_result_plotter.py 
+  351  python benchmark-file-parser/paper_result_plotter.py 
+  352  python benchmark-file-parser/paper_result_plotter.py 
+  353  python benchmark-file-parser/paper_result_plotter.py 
+  354  python benchmark-file-parser/paper_result_plotter.py 
+  355  git commit -m "fpp-56gib final"
+  356  python benchmark-file-parser/paper_result_plotter.py 
+  357  python benchmark-file-parser/paper_result_plotter.py 
+  358  python benchmark-file-parser/paper_result_plotter.py 
+  359  python benchmark-file-parser/paper_result_plotter.py 
+  360  python benchmark-file-parser/paper_result_plotter.py 
+  361  python benchmark-file-parser/paper_result_plotter.py 
+  362  python benchmark-file-parser/paper_result_plotter.py 
+  363  python benchmark-file-parser/paper_result_plotter.py 
+  364  python benchmark-file-parser/paper_result_plotter.py 
+  365  python benchmark-file-parser/paper_result_plotter.py 
+  366  git commit -m "fpp-56gib final"
+  367  git commit -m "ssf-7mib final"
+  368  python benchmark-file-parser/paper_result_plotter.py 
+  369  python benchmark-file-parser/paper_result_plotter.py 
+  370  python benchmark-file-parser/paper_result_plotter.py 
+  371  python benchmark-file-parser/paper_result_plotter.py 
+  372  python benchmark-file-parser/paper_result_plotter.py 
+  373  python benchmark-file-parser/paper_result_plotter.py 
+  374  python benchmark-file-parser/paper_result_plotter.py 
+  375  python benchmark-file-parser/paper_result_plotter.py 
+  376  git commit -m "ssf-56gib final"
+  377  git push
+  378  bluetoothctl 
+  379  ifconfig 
+  380  Programming/campnetliplusplus/login.py 
+  381  yay spotify
+  382  l
+  383  ls install.log 
+  384  ls -l install.log 
+  385  date
+  386  who
+  387  man who
+  388  tldr who
+  389  who am i
+  390  who
+  391  who -a
+  392  who -a -H
+  393  who -H
+  394  yay
+  395  l
+  396  vim temp.sh
+  397  yay vim
+  398  vim temp.sh
+  399  bash temp.sh 
+  400  vim temp.sh 
+  401  bash temp.sh 
+  402  bash temp.sh 1 2
+  403  vim temp.sh 
+  404  bash temp.sh 1 2
+  405  vim temp.sh 
+  406  bash temp.sh 1 2
+  407  vim temp.sh 
+  408  bash temp.sh 1 2
+  409  neofetch 
+  410  ifconfig 
+  411  bc
+  412  tldr bc
+  413  man bc
+  414  zellij 
+  415  man man
+  416  tldr man
+  417  yay openboard
+  418  yay xournal
+  419  echo BASH
+  420  echo $BASH
+  421  echo $BASH_VERSION
+  422  echo $COLUMNS
+  423  echo  $LOGNAME
+  424  echo $OSTYPE
+  425  echo $PS1
+  426  echo $USERNAME
+  427  vim temp.sh 
+  428  bash temp.sh 
+  429  vim temp.sh 
+  430  vim temp.sh && bash temp.sh 
+  431  tldr test
+  432  test 5 > 2
+  433  test 5 > 2 && echo 'true'
+  434  test 5 > 2 && echo 'true' || echo 'false'
+  435  test 5 < 2 && echo 'true' || echo 'false'
+  436  test
+  437  test -h
+  438  test --help
+  439  man test
+  440  test 5 -gt 2
+  441  echo test 5 -gt 2
+  442  vim temp.sh && bash temp.sh 
+  443  vim temp.sh && bash temp.sh 
+  444  vim temp.sh && bash temp.sh 
+  445  vim temp.sh && bash temp.sh 
+  446  vim temp.sh && bash temp.sh 
+  447  vim temp.sh && bash temp.sh 
+  448  vim temp.sh && bash temp.sh 
+  449  vim temp.sh && bash temp.sh 
+  450  vim temp.sh && bash temp.sh 
+  451  vim temp.sh && bash temp.sh 
+  452  vim temp.sh && bash temp.sh 
+  453  l
+  454  ls
+  455  bash temp.sh D p
+  456  sh temp.sh D p
+  457  vim temp.sh && bash temp.sh 
+  458  bash temp.sh 
+  459  man ls
+  460  ls D*p -d
+  461  ls
+  462  ls i*g -d
+  463  ls -dp i*g | grep -v /
+  464  ls -dp D*p\ | grep -v /
+  465  ls -dp D*p | grep -v /
+  466  ls -dp
+  467  ls -dp *
+  468  man grep
+  469  wc
+  470  man wc
+  471  tldr wc
+  472  ls -l
+  473  ls -l | wc --lines
+  474  man ls
+  475  cat > temp.sh 
+  476  cat temp.sh 
+  477  pwd
+  478  Programming/campnetliplusplus/login.py 
+  479  Programming/campnetliplusplus/login.py 
+  480  yay tabula
+  481  tabula
+  482  yay -Rsn tabula 
+  483  yay eiskalt
+  484  mdl
+  485  mdls
+  486  yay -S aur/eiskaltdcpp-gtk
+  487  yay -S aur/eiskaltdcpp-gtk
+  488  yay -S aur/eiskaltdcpp-gtk
+  489  Programming/campnetliplusplus/login.py 
+  490  man ls
+  491  ls
+  492  cd Desktop/
+  493  mkdir temp
+  494  ls -R D*p
+  495  cd ..
+  496  ls -R D*p
+  497  trash Desktop/temp/
+  498  l
+  499  ls -R D*
+  500  man ls
+  501  l
+  502  clear && cat `ls -dp *o* | grep -v /` | head -n 3
+  503  cat `ls -dp *o* | grep -v /` | head -n 3
+  504  cd OSLab1/
+  505  ls
+  506  touch 1.txt
+  507  nano 1.txt 
+  508  nano 2.xt
+  509  nano 2.txt
+  510  cat `ls -dp *log | grep -v /` | head -n 3
+  511  cat `ls -dp *.txt | grep -v /` | head -n 3
+  512  man find
+  513  tldr find
+  514  man find
+  515  man test
+  516  test 1 -gt 2
+  517  test 1 -gt 0
+  518  echo test 1 -gt 0
+  519  echo `test 1 -gt 0`
+  520  echo `test 1 -gt 2`
+  521  vim temp.sh
+  522  bash temp.sh 
+  523  vim temp.sh && bash temp.sh 
+  524  vim temp.sh && bash temp.sh 
+  525  vim temp.sh && bash temp.sh 
+  526  vim temp.sh && bash temp.sh 
+  527  vim temp.sh && bash temp.sh 
+  528  l
+  529  vim temp.sh && bash temp.sh 
+  530  vim temp.sh && bash temp.sh 
+  531  vim temp.sh && bash temp.sh 
+  532  vim temp.sh && bash temp.sh 
+  533  vim temp.sh && bash temp.sh 
+  534  mv temp.sh q1d.sh
+  535  cat * | grep -o 'spicetify path' | wc -l
+  536  cat *
+  537  cd ..
+  538  cat * | grep -o 'spicetify path' | wc -l
+  539  vim 1c.sh
+  540  bash 1c.sh 
+  541  vim 1c.sh && bash 1c.sh 
+  542  vim 1c.sh && bash 1c.sh 
+  543  vim 1c.sh && bash 1c.sh 
+  544  cat * | grep -o 'spicetify path' | wc -l 
+  545  cat * | grep -o 'spicetify path' | wc -l 2>/dev/null 
+  546  cat * | grep -o 'spicetify path' | wc -l 1>stdout.temp
+  547  cat * | grep -o 'spicetify path' | wc -l 1>stdout.temp 2>stderr.temp
+  548  cat `ls -dp *log | grep -v /`
+  549  cat `ls -dp * | grep -v /`
+  550  cat `ls -dp * | grep -v /` | grep -o 'spicetify path' | wc -l 
+  551  l
+  552  cat `ls -dp * | grep -v /` | grep -o 'spicetify path' | wc -l 
+  553  l
+  554  cd OSLab1/
+  555  l
+  556  cat q1d.sh 
+  557  bat q1d.sh 
+  558  cd ..
+  559  ls -dp *
+  560  l
+  561  l | grep .sh
+  562  vim 1c.sh 
+  563  bash 1c.sh 
+  564  vim 1c.sh 
+  565  bash 1c.sh 
+  566  l
+  567  mv 1c.sh OSLab1/
+  568  cd OSLab1/
+  569  l
+  570  trash *.txt
+  571  l
+  572  bat 1c.sh 
+  573  bat q1
+  574  bat q1.sh 
+  575  trash q1.sh 
+  576  l
+  577  mv q1d.sh 1d.sh
+  578  l
+  579  ls
+  580  vim 1b.sh
+  581  bat 1c.sh 
+  582  vim 1a.sh
+  583  vim 1a.sh && bash 1a.sh 
+  584  vim 1a.sh && bash 1a.sh 
+  585  vim 1a.sh && bash 1a.sh 
+  586  mv 1a.sh ~/
+  587  cd ..
+  588  bash 1a.sh 
+  589  vim 1a.sh && bash 1a.sh 
+  590  vim 1a.sh && bash 1a.sh 
+  591  vim 1a.sh && bash 1a.sh 
+  592  clear vim 1a.sh && bash 1a.sh 
+  593  clear && vim 1a.sh && bash 1a.sh 
+  594  l
+  595  mv 1a.sh OSLab1/
+  596  l
+  597  l
+  598  cd OSLab1/
+  599  l
+  600  bash 1a.sh 
+  601  cd ..
+  602  bash OSLab1/1a.sh 
+  603  bash OSLab1/1b.sh 
+  604  bash OSLab1/1c.sh 
+  605  bash OSLab1/1d.sh 
+  606  cd OSLab1/
+  607  vim 2.sh && bash 2.sh 1
+  608  vim 2.sh && bash 2.sh 1
+  609  vim 2.sh && bash 2.sh 1
+  610  bat 1a.sh 
+  611  bat 1b.sh 
+  612  bat 1c.sh 
+  613  bat 1d.sh 
+  614  vim 2.sh && bash 2.sh 1
+  615  vim 2.sh && bash 2.sh 1
+  616  vim 2.sh && bash 2.sh 1
+  617  bash 2.sh -1
+  618  bash 2.sh -0
+  619  vim 2.sh && bash 2.sh 1
+  620  vim 2.sh && bash 2.sh 1
+  621  vim 2.sh && bash 2.sh 1
+  622  vim 2.sh && bash 2.sh 1
+  623  vim 2.sh && bash 2.sh 1
+  624  vim 2.sh && bash 2.sh 1
+  625  vim 2.sh && bash 2.sh 2
+  626  vim 2.sh && bash 2.sh 2
+  627  vim 2.sh && bash 2.sh 2
+  628  vim 2.sh && bash 2.sh 2
+  629  vim 2.sh && bash 2.sh 2
+  630  vim 2.sh && bash 2.sh 2
+  631  vim 2.sh && bash 2.sh 2
+  632  l
+  633  vim 3.sh
+  634  vim 3.sh && bash 3.sh 
+  635  vim 3.sh && bash 3.sh 
+  636  vim 3.sh && bash 3.sh 
+  637  vim 3.sh && bash 3.sh 
+  638  vim 3.sh && bash 3.sh 
+  639  vim 3.sh && bash 3.sh 
+  640  vim 3.sh && bash 3.sh 
+  641  vim 3.sh && bash 3.sh 
+  642  vim 3.sh && bash 3.sh 
+  643  vim 3.sh && bash 3.sh 
+  644  vim 3.sh && bash 3.sh 
+  645  vim 3.sh && bash 3.sh 
+  646  vim 3.sh && bash 3.sh 
+  647  vim 3.sh && bash 3.sh 
+  648  vim 3.sh && bash 3.sh 
+  649  vim 3.sh && bash 3.sh 
+  650  vim 3.sh && bash 3.sh 
+  651  vim 3.sh && bash 3.sh 
+  652  vim 3.sh && bash 3.sh 
+  653  vim 3.sh && bash 3.sh 
+  654  vim 3.sh && bash 3.sh 
+  655  vim 3.sh && bash 3.sh 
+  656  vim 3.sh && bash 3.sh 
+  657  vim 3.sh && bash 3.sh 
+  658  vim 3.sh && bash 3.sh 
+  659  bash 3.sh 
+  660  bash 3.sh 
+  661  vim 3.sh && bash 3.sh 
+  662  vim 3.sh && bash 3.sh 
+  663  vim 3.sh && bash 3.sh 
+  664  clear && vim 3.sh && bash 3.sh 
+  665  l
+  666  l
+  667  vim 1a.sh 
+  668  vim 1a.sh 
+  669  bash 1a.sh 
+  670  bash 1a.sh 
+  671  vim 1a.sh 
+  672  vim 1a.sh 
+  673  vim 1b.sh 
+  674  bash 1b.sh 
+  675  bash 1b.sh 
+  676  cd ..
+  677  bash OSLab1/1b.sh 
+  678  l
+  679  bash OSLab1/1a.sh 
+  680  vim OSLab1/1a.sh 
+  681  bash OSLab1/1a.sh
+  682  l
+  683  cd OSLab1/
+  684  l
+  685  vim 1a.sh 
+  686  bash 1a.sh 
+  687  bash 1b.sh 
+  688  cd ..
+  689  bash OSLab1/1b.sh 
+  690  bash OSLab1/1b.sh
+  691  cd Os
+  692  cd OSLab1/
+  693  l
+  694  bat 1b.sh 
+  695  bat 1c.sh 
+  696  vim 1c.sh 
+  697  cd ..
+  698  bash OSLab1/1c.sh 
+  699  bash OSLab1/1c.sh 
+  700  cd OSLab1/
+  701  l
+  702  bat 1c.sh 
+  703  nano 1c.sh 
+  704  nano 1c.sh 
+  705  file ../*.jso
+  706  file ../*.json
+  707  bat 1c.sh 
+  708  bat 1d.sh 
+  709  cat 1a>q1.sh
+  710  cat 1a.sh>q1.sh
+  711  bat q1.sh 
+  712  cat 1b.sh > q1.sh 
+  713  bat q1.sh 
+  714  nano 1a.sh 
+  715  nano 1b.sh 
+  716  nano 1c.sh 
+  717  trash q1.sh 
+  718  l
+  719  bat 2.sh 
+  720  bat 3.sh 
+  721  l
+  722  cd ..
+  723  tldr tar
+  724  tar xvf OSLab1.tar.xz
+  725  tar cf OSLab1.tar.xz
+  726  tar cf OSLab1.tar.xz OSLab1/
+  727  l
+  728  ls
+  729  history
+  730  history >> shell_history
