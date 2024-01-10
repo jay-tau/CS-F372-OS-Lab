@@ -1,0 +1,94 @@
+    1  cd /usr/src/
+    2  l
+    3  tar -xvf *.xz
+    4  l
+    5  cd linux-
+    6  cd linux-5.19.8
+    7  l
+    8  apt install flex bison libssl-dev libelf-dev build-essential make -y
+    9  make defconfig
+   10  make -j15
+   11  make modules_install && make modules_install install
+   12  update-initramfs -c -k linux-5.19.8
+   13  update-grub
+   14  reboot 
+   15  cd /usr/src/linux-5.19.8
+   16  l
+   17  mkdir add_syscall
+   18  cd add_syscall/
+   19  touch add_syscall.c
+   20  touch add_syscall.h
+   21  touch Makefile
+   22  nano add_syscall.c 
+   23  nano add_syscall.h 
+   24  nano Makefile 
+   25  cd ..
+   26  nano Makefile 
+   27  nano arch/x86/entry/syscalls/syscall_64.tbl 
+   28  nano include/asm-generic/syscalls.h 
+   29  nano include/linux/syscalls.h 
+   30  make defconfig
+   31  make -j15
+   32  make modules_install
+   33  make modules_install install
+   34  update-initramfs -c -k linux-5.19.8
+   35  update-grub
+   36  reboot 
+   37  cd /usr/src/linux-5.19.8
+   38  l
+   39  cd add_syscall/
+   40  l
+   41  vim add_syscall.
+   42  vim add_syscall.c
+   43  l
+   44  cd /usr/src/linux-5.19.8
+   45  code .
+   46  code . --no-sandbox
+   47  code . --no-sandbox --user-data-dir /home/joel
+   48  top
+   49  man top
+   50  gcc add_syscall/add_syscall.c
+   51  gcc -o add_syscall/add_syscall.c
+   52  gcc -c add_syscall/add_syscall.c
+   53  cd /usr/src/linux-5.19.8
+   54  l
+   55  nano add_syscall/add_syscall.c
+   56  make defconfig
+   57  make -j15
+   58  code .
+   59  code . --no-sandbox --user-data-dir /home/joel/
+   60  make defconfig
+   61  make -j15
+   62  make defconfig
+   63  make -j15
+   64  make defconfig
+   65  make -j15
+   66  reboot 
+   67  cd /usr/src/linux-5.19.8
+   68  make defconfig
+   69  make -j15
+   70  make defconfig
+   71  make -j15
+   72  make modules_install
+   73  make modules_install install
+   74  nano /etc/default/grub
+   75  update-initramfs -c -k linux-5.19.8
+   76  update-grub
+   77  reboot 
+   78  cd /usr/src/linux-5.19.8
+   79  l
+   80  code .
+   81  code . --no-sandbox --user-data-dir /home/joel/
+   82  l
+   83  cd /usr/src/linux-5.19.8
+   84  l
+   85  make defconfig
+   86  make -j15
+   87  make modules_install
+   88  make modules_install install
+   89  update-initramfs -c -k linux-5.19.8
+   90  update-grub\
+   91  update-grub
+   92  reboot 
+   93  history
+   94  history >> root_shell_history

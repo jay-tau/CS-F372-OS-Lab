@@ -1,0 +1,127 @@
+    1  sudo apt update
+    2  sudo apt upgrade -y
+    3  sudo cp Downloads/linux-5.19.8.tar.xz /usr/src/
+    4  l
+    5  sudo su
+    6  nano /etc/default/grub
+    7  l
+    8  sudo su
+    9  uname -r
+   10  cd .
+   11  cd
+   12  nano add2Num.c
+   13  vimi
+   14  vim
+   15  sudo apt install vim -y
+   16  vim addWrapper.h
+   17  gcc -o addNum add2Num.c 
+   18  ./addNum 
+   19  vim add2Num.c 
+   20  gcc -o addNum add2Num.c 
+   21  ./addNum 
+   22  man sysinfo 
+   23  man sched.h
+   24  man sched
+   25  man signal
+   26  man linux/signal
+   27  man linux/signal.h
+   28  man signal.h
+   29  man signal
+   30  man sched
+   31  clear
+   32  man sched
+   33  cd /usr/src/linux-5.19.8/include/
+   34  l
+   35  cd linux/
+   36  vim sched.h 
+   37  nano sched.h 
+   38  man signal
+   39  man signal.h
+   40  man signal
+   41  sudo su
+   42  l
+   43  code 
+   44  firefox
+   45  uname -r
+   46  chrome
+   47  wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+   48  l
+   49  sudo apt install ./google-chrome-stable_current_amd64.deb 
+   50  l
+   51  cd Downloads
+   52  l
+   53  sudo apt install ./code_1.82.1-1694163687_amd64.deb 
+   54  l
+   55  cd /usr/src/linux-5.19.8/
+   56  code .
+   57  uname -r
+   58  sudo su
+   59  l
+   60  sudo su
+   61  uname -r
+   62  sudo nano /etc/default/grub
+   63  reboot
+   64  uname -r
+   65  cd /usr/src/linux-5.19.8/
+   66  l
+   67  cd add_syscall/
+   68  l
+   69  nano add_syscall.
+   70  nano add_syscall.c
+   71  sudo su
+   72  top
+   73  mkdir assignment
+   74  cd assignment/
+   75  vim driver.c
+   76  vim header.h
+   77  vim wrapper.c
+   78  vim driver.c
+   79  vim header.h 
+   80  vim wrapper.c 
+   81  vim Makefile
+   82  l
+   83  make 
+   84  ./test 2835 0
+   85  ./test.out 2835 0
+   86  vim driver.c 
+   87  vim wrapper.c
+   88  make clean
+   89  make
+   90  ./test.out 2835 0
+   91  vim wrapper.c
+   92  make 
+   93  ./test.out 2835 0
+   94  ./test.out 4777 0
+   95  uname -r
+   96  sudo su
+   97  sudo add-apt-repository ppa:danielrichter2007/grub-customizer
+   98  sudo apt install grub-customizer
+   99  -y
+  100  free
+  101  uname -r
+  102  cd assignment/
+  103  make
+  104  make clean
+  105  make
+  106  ./test.out 1580 0
+  107  ./test.out 1580 1
+  108  ./test.out 1580 2
+  109  ./test.out 1580 3
+  110  ./test.out 1689 0
+  111  ./test.out 1931 0
+  112  ./test.out 1932 0
+  113  top
+  114  cd ~/assignment/
+  115  l
+  116  make clean
+  117  make
+  118  ./test.out 1538 0
+  119  ./test.out 1538 1
+  120  ./test.out 1538 2
+  121  ./test.out 1538 3
+  122  l
+  123  cd Downloads/
+  124  l
+  125  history
+  126  sudo su
+  127  history >> user_shell_history
